@@ -76,7 +76,7 @@ public class LoginForm extends javax.swing.JFrame {
         });
 
         btn_login.setFont(new java.awt.Font("Segoe UI", 1, 15)); // NOI18N
-        btn_login.setText("Log In Now!!!");
+        btn_login.setText("Log In Now Sekarang juga!!!");
         btn_login.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 btn_loginActionPerformed(evt);
