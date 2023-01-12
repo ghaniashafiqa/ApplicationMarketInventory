@@ -246,7 +246,7 @@ public class MainMenu extends javax.swing.JFrame {
         labelCategory.setText("Category");
 
         cbCategory.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
-        cbCategory.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Sayur", "Buah", "Daging" }));
+        cbCategory.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Vegetable", "Fruit", "Meet" }));
 
         javax.swing.GroupLayout jPanel7Layout = new javax.swing.GroupLayout(jPanel7);
         jPanel7.setLayout(jPanel7Layout);
