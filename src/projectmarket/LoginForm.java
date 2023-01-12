@@ -55,7 +55,7 @@ public class LoginForm extends javax.swing.JFrame {
         jLabel1.setText("SUPERMARKET NAFI");
 
         jLabel2.setFont(new java.awt.Font("Segoe UI", 1, 15)); // NOI18N
-        jLabel2.setText("Admin");
+        jLabel2.setText("Adminnnn");
 
         jLabel3.setFont(new java.awt.Font("Segoe UI", 1, 15)); // NOI18N
         jLabel3.setText("Username:");
